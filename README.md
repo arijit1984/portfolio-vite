@@ -1,3 +1,10 @@
-# Portfolio Vite
+# Portfolio Vite - Full Multi-page App
 
-This project includes portfolio with real profile and resume. See public/case-studies for case studies.
+Contains React Router, dark mode, animations, markdown case-study pages and resume PDF viewer.
+
+Install:
+
+```
+npm install
+npm run dev
+```
